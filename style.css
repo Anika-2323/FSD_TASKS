@@ -1,0 +1,12 @@
+h1{
+text-transform:uppercase;
+}
+p{
+font-style:italic;
+}
+tr:nth-child(even){
+	background-color: #ffe6f2;
+}
+table:hover{
+	box-shadow: 5px 5px 15px gray;
+}
